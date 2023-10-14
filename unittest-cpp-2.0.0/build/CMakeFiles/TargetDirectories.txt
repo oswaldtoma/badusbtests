@@ -1,0 +1,5 @@
+C:/Users/Oswald/source/repos/BadUSB3/BadUSBTests/unittest-cpp-2.0.0/build/CMakeFiles/UnitTest++.dir
+C:/Users/Oswald/source/repos/BadUSB3/BadUSBTests/unittest-cpp-2.0.0/build/CMakeFiles/TestUnitTest++.dir
+C:/Users/Oswald/source/repos/BadUSB3/BadUSBTests/unittest-cpp-2.0.0/build/CMakeFiles/INSTALL.dir
+C:/Users/Oswald/source/repos/BadUSB3/BadUSBTests/unittest-cpp-2.0.0/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Oswald/source/repos/BadUSB3/BadUSBTests/unittest-cpp-2.0.0/build/CMakeFiles/ZERO_CHECK.dir

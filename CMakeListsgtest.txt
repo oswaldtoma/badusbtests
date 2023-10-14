@@ -1,0 +1,29 @@
+cmake_minimum_required(VERSION 3.14)
+project(GoogleTestProject)
+
+set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
+ADD_SUBDIRECTORY(googletest-1.14.0)
+
+enable_testing()
+
+add_executable(
+    main
+    main.cpp
+    ScriptLang.cpp
+    KeyboardFake.cpp
+    ScriptManager.cpp
+    Helper.cpp
+)
+
+target_link_libraries(
+    main
+    GTest::gtest_main
+)
+
+include(GoogleTest)
+gtest_discover_tests(main)
+
+set_property(GLOBAL PROPERTY RULE_LAUNCH_COMPILE "${CMAKE_COMMAND} -E time") 
+set_property(GLOBAL PROPERTY RULE_LAUNCH_LINK "${CMAKE_COMMAND} -E time")

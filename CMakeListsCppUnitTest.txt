@@ -1,0 +1,17 @@
+cmake_minimum_required(VERSION 3.14)
+project(CppUnitTest)
+
+set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
+include_directories("C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Auxiliary\\VS\\UnitTest\\include")
+link_directories("C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Auxiliary\\VS\\UnitTest\\lib\\x86\\Microsoft.VisualStudio.TestTools.CppUnitTestFramework.lib")
+
+add_library(
+    CppUnitTest SHARED
+    main.cpp
+    ScriptLang.cpp
+    KeyboardFake.cpp
+    ScriptManager.cpp
+    Helper.cpp
+)

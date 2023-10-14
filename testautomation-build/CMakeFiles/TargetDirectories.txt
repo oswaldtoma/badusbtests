@@ -1,0 +1,3 @@
+C:/Users/Oswald/source/repos/BadUSB3/BadUSBTests/testautomation-build/CMakeFiles/main.dir
+C:/Users/Oswald/source/repos/BadUSB3/BadUSBTests/testautomation-build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Oswald/source/repos/BadUSB3/BadUSBTests/testautomation-build/CMakeFiles/ZERO_CHECK.dir
