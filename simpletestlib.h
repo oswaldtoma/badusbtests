@@ -6,6 +6,7 @@
 #include <functional>
 #include <string>
 #include <unordered_map>
+#pragma warning( disable : 4312 )
 
 /*
 	To use this library, you should call SETUP_TESTS() in main() (in your test project).

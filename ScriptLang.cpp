@@ -2,6 +2,9 @@
 #include "Defines.h"
 #include <string.h>
 
+#pragma warning(disable:4244)
+#pragma warning(disable:4996)
+
 ScriptLang::KeyValueDict ScriptLang::m_dictionary[DICTIONARY_ELEMENTS_NUMBER] =
 {
     { "OS",  KEY_LEFT_GUI },

@@ -26,7 +26,7 @@ events:
       Microsoft (R) Build Engine 16.11.2+f32259642 dla platformy .NET Framework
       Copyright (C) Microsoft Corporation. Wszelkie prawa zastrzeżone.
       
-      Kompilacja rozpoczęła się 14.10.2023 19:54:10.
+      Kompilacja rozpoczęła się 14.10.2023 20:28:16.
       Projekt "C:\\Users\\Oswald\\source\\repos\\BadUSB3\\BadUSBTests\\build\\CMakeFiles\\3.27.4\\CompilerIdC\\CompilerIdC.vcxproj" w węźle 1 (domyślne elementy docelowe).
       PrepareForBuild:
         Tworzenie katalogu "Debug\\".
@@ -52,7 +52,7 @@ events:
           Ostrzeżenia: 0
           Liczba błędów: 0
       
-      Czas, który upłynął: 00:00:00.87
+      Czas, który upłynął: 00:00:00.68
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -80,7 +80,7 @@ events:
       Microsoft (R) Build Engine 16.11.2+f32259642 dla platformy .NET Framework
       Copyright (C) Microsoft Corporation. Wszelkie prawa zastrzeżone.
       
-      Kompilacja rozpoczęła się 14.10.2023 19:54:11.
+      Kompilacja rozpoczęła się 14.10.2023 20:28:17.
       Projekt "C:\\Users\\Oswald\\source\\repos\\BadUSB3\\BadUSBTests\\build\\CMakeFiles\\3.27.4\\CompilerIdCXX\\CompilerIdCXX.vcxproj" w węźle 1 (domyślne elementy docelowe).
       PrepareForBuild:
         Tworzenie katalogu "Debug\\".
@@ -106,7 +106,7 @@ events:
           Ostrzeżenia: 0
           Liczba błędów: 0
       
-      Czas, który upłynął: 00:00:00.58
+      Czas, który upłynął: 00:00:00.55
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -125,8 +125,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/Oswald/source/repos/BadUSB3/BadUSBTests/build/CMakeFiles/CMakeScratch/TryCompile-ehgh4p"
-      binary: "C:/Users/Oswald/source/repos/BadUSB3/BadUSBTests/build/CMakeFiles/CMakeScratch/TryCompile-ehgh4p"
+      source: "C:/Users/Oswald/source/repos/BadUSB3/BadUSBTests/build/CMakeFiles/CMakeScratch/TryCompile-yl15zh"
+      binary: "C:/Users/Oswald/source/repos/BadUSB3/BadUSBTests/build/CMakeFiles/CMakeScratch/TryCompile-yl15zh"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -135,39 +135,39 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/Oswald/source/repos/BadUSB3/BadUSBTests/build/CMakeFiles/CMakeScratch/TryCompile-ehgh4p'
+        Change Dir: 'C:/Users/Oswald/source/repos/BadUSB3/BadUSBTests/build/CMakeFiles/CMakeScratch/TryCompile-yl15zh'
         
-        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe" cmTC_40f65.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe" cmTC_841ca.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n
         Microsoft (R) Build Engine 16.11.2+f32259642 dla platformy .NET Framework
         Copyright (C) Microsoft Corporation. Wszelkie prawa zastrzeżone.
         
-        Kompilacja rozpoczęła się 14.10.2023 19:54:12.
-        Projekt "C:\\Users\\Oswald\\source\\repos\\BadUSB3\\BadUSBTests\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ehgh4p\\cmTC_40f65.vcxproj" w węźle 1 (domyślne elementy docelowe).
+        Kompilacja rozpoczęła się 14.10.2023 20:28:18.
+        Projekt "C:\\Users\\Oswald\\source\\repos\\BadUSB3\\BadUSBTests\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yl15zh\\cmTC_841ca.vcxproj" w węźle 1 (domyślne elementy docelowe).
         PrepareForBuild:
-          Tworzenie katalogu "cmTC_40f65.dir\\Debug\\".
-          Tworzenie katalogu "C:\\Users\\Oswald\\source\\repos\\BadUSB3\\BadUSBTests\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ehgh4p\\Debug\\".
-          Tworzenie katalogu "cmTC_40f65.dir\\Debug\\cmTC_40f65.tlog\\".
+          Tworzenie katalogu "cmTC_841ca.dir\\Debug\\".
+          Tworzenie katalogu "C:\\Users\\Oswald\\source\\repos\\BadUSB3\\BadUSBTests\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yl15zh\\Debug\\".
+          Tworzenie katalogu "cmTC_841ca.dir\\Debug\\cmTC_841ca.tlog\\".
         InitializeBuildStatus:
-          Trwa tworzenie "cmTC_40f65.dir\\Debug\\cmTC_40f65.tlog\\unsuccessfulbuild", ponieważ określono "AlwaysCreate".
+          Trwa tworzenie "cmTC_841ca.dir\\Debug\\cmTC_841ca.tlog\\unsuccessfulbuild", ponieważ określono "AlwaysCreate".
         ClCompile:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_40f65.dir\\Debug\\\\" /Fd"cmTC_40f65.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.27\\Modules\\CMakeCCompilerABI.c"
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_841ca.dir\\Debug\\\\" /Fd"cmTC_841ca.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.27\\Modules\\CMakeCCompilerABI.c"
           Microsoft (R) C/C++ wersja kompilatora optymalizującego 19.29.30146 dla x64
           Copyright (C) Microsoft Corporation. Wszystkie prawa zastrzeżone.
           CMakeCCompilerABI.c
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_40f65.dir\\Debug\\\\" /Fd"cmTC_40f65.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.27\\Modules\\CMakeCCompilerABI.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_841ca.dir\\Debug\\\\" /Fd"cmTC_841ca.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.27\\Modules\\CMakeCCompilerABI.c"
         Link:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\Oswald\\source\\repos\\BadUSB3\\BadUSBTests\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ehgh4p\\Debug\\cmTC_40f65.exe" /INCREMENTAL /ILK:"cmTC_40f65.dir\\Debug\\cmTC_40f65.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Oswald/source/repos/BadUSB3/BadUSBTests/build/CMakeFiles/CMakeScratch/TryCompile-ehgh4p/Debug/cmTC_40f65.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Oswald/source/repos/BadUSB3/BadUSBTests/build/CMakeFiles/CMakeScratch/TryCompile-ehgh4p/Debug/cmTC_40f65.lib" /MACHINE:X64  /machine:x64 cmTC_40f65.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_40f65.vcxproj -> C:\\Users\\Oswald\\source\\repos\\BadUSB3\\BadUSBTests\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ehgh4p\\Debug\\cmTC_40f65.exe
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\Oswald\\source\\repos\\BadUSB3\\BadUSBTests\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yl15zh\\Debug\\cmTC_841ca.exe" /INCREMENTAL /ILK:"cmTC_841ca.dir\\Debug\\cmTC_841ca.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Oswald/source/repos/BadUSB3/BadUSBTests/build/CMakeFiles/CMakeScratch/TryCompile-yl15zh/Debug/cmTC_841ca.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Oswald/source/repos/BadUSB3/BadUSBTests/build/CMakeFiles/CMakeScratch/TryCompile-yl15zh/Debug/cmTC_841ca.lib" /MACHINE:X64  /machine:x64 cmTC_841ca.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_841ca.vcxproj -> C:\\Users\\Oswald\\source\\repos\\BadUSB3\\BadUSBTests\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yl15zh\\Debug\\cmTC_841ca.exe
         FinalizeBuildStatus:
-          Usuwanie pliku "cmTC_40f65.dir\\Debug\\cmTC_40f65.tlog\\unsuccessfulbuild".
-          Modyfikowanie "cmTC_40f65.dir\\Debug\\cmTC_40f65.tlog\\cmTC_40f65.lastbuildstate".
-        Kompilowanie projektu "C:\\Users\\Oswald\\source\\repos\\BadUSB3\\BadUSBTests\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ehgh4p\\cmTC_40f65.vcxproj" wykonane (domyślne elementy docelowe).
+          Usuwanie pliku "cmTC_841ca.dir\\Debug\\cmTC_841ca.tlog\\unsuccessfulbuild".
+          Modyfikowanie "cmTC_841ca.dir\\Debug\\cmTC_841ca.tlog\\cmTC_841ca.lastbuildstate".
+        Kompilowanie projektu "C:\\Users\\Oswald\\source\\repos\\BadUSB3\\BadUSBTests\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yl15zh\\cmTC_841ca.vcxproj" wykonane (domyślne elementy docelowe).
         
         Kompilacja powiodła się.
             Ostrzeżenia: 0
             Liczba błędów: 0
         
-        Czas, który upłynął: 00:00:00.52
+        Czas, który upłynął: 00:00:00.51
         
       exitCode: 0
   -
@@ -179,8 +179,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/Oswald/source/repos/BadUSB3/BadUSBTests/build/CMakeFiles/CMakeScratch/TryCompile-40dbtj"
-      binary: "C:/Users/Oswald/source/repos/BadUSB3/BadUSBTests/build/CMakeFiles/CMakeScratch/TryCompile-40dbtj"
+      source: "C:/Users/Oswald/source/repos/BadUSB3/BadUSBTests/build/CMakeFiles/CMakeScratch/TryCompile-pffw95"
+      binary: "C:/Users/Oswald/source/repos/BadUSB3/BadUSBTests/build/CMakeFiles/CMakeScratch/TryCompile-pffw95"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -189,39 +189,39 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/Oswald/source/repos/BadUSB3/BadUSBTests/build/CMakeFiles/CMakeScratch/TryCompile-40dbtj'
+        Change Dir: 'C:/Users/Oswald/source/repos/BadUSB3/BadUSBTests/build/CMakeFiles/CMakeScratch/TryCompile-pffw95'
         
-        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe" cmTC_5771f.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe" cmTC_efa54.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:n
         Microsoft (R) Build Engine 16.11.2+f32259642 dla platformy .NET Framework
         Copyright (C) Microsoft Corporation. Wszelkie prawa zastrzeżone.
         
-        Kompilacja rozpoczęła się 14.10.2023 19:54:12.
-        Projekt "C:\\Users\\Oswald\\source\\repos\\BadUSB3\\BadUSBTests\\build\\CMakeFiles\\CMakeScratch\\TryCompile-40dbtj\\cmTC_5771f.vcxproj" w węźle 1 (domyślne elementy docelowe).
+        Kompilacja rozpoczęła się 14.10.2023 20:28:19.
+        Projekt "C:\\Users\\Oswald\\source\\repos\\BadUSB3\\BadUSBTests\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pffw95\\cmTC_efa54.vcxproj" w węźle 1 (domyślne elementy docelowe).
         PrepareForBuild:
-          Tworzenie katalogu "cmTC_5771f.dir\\Debug\\".
-          Tworzenie katalogu "C:\\Users\\Oswald\\source\\repos\\BadUSB3\\BadUSBTests\\build\\CMakeFiles\\CMakeScratch\\TryCompile-40dbtj\\Debug\\".
-          Tworzenie katalogu "cmTC_5771f.dir\\Debug\\cmTC_5771f.tlog\\".
+          Tworzenie katalogu "cmTC_efa54.dir\\Debug\\".
+          Tworzenie katalogu "C:\\Users\\Oswald\\source\\repos\\BadUSB3\\BadUSBTests\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pffw95\\Debug\\".
+          Tworzenie katalogu "cmTC_efa54.dir\\Debug\\cmTC_efa54.tlog\\".
         InitializeBuildStatus:
-          Trwa tworzenie "cmTC_5771f.dir\\Debug\\cmTC_5771f.tlog\\unsuccessfulbuild", ponieważ określono "AlwaysCreate".
+          Trwa tworzenie "cmTC_efa54.dir\\Debug\\cmTC_efa54.tlog\\unsuccessfulbuild", ponieważ określono "AlwaysCreate".
         ClCompile:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_5771f.dir\\Debug\\\\" /Fd"cmTC_5771f.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.27\\Modules\\CMakeCXXCompilerABI.cpp"
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_efa54.dir\\Debug\\\\" /Fd"cmTC_efa54.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.27\\Modules\\CMakeCXXCompilerABI.cpp"
           Microsoft (R) C/C++ wersja kompilatora optymalizującego 19.29.30146 dla x64
           Copyright (C) Microsoft Corporation. Wszystkie prawa zastrzeżone.
           CMakeCXXCompilerABI.cpp
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_5771f.dir\\Debug\\\\" /Fd"cmTC_5771f.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.27\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_efa54.dir\\Debug\\\\" /Fd"cmTC_efa54.dir\\Debug\\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.27\\Modules\\CMakeCXXCompilerABI.cpp"
         Link:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\Oswald\\source\\repos\\BadUSB3\\BadUSBTests\\build\\CMakeFiles\\CMakeScratch\\TryCompile-40dbtj\\Debug\\cmTC_5771f.exe" /INCREMENTAL /ILK:"cmTC_5771f.dir\\Debug\\cmTC_5771f.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Oswald/source/repos/BadUSB3/BadUSBTests/build/CMakeFiles/CMakeScratch/TryCompile-40dbtj/Debug/cmTC_5771f.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Oswald/source/repos/BadUSB3/BadUSBTests/build/CMakeFiles/CMakeScratch/TryCompile-40dbtj/Debug/cmTC_5771f.lib" /MACHINE:X64  /machine:x64 cmTC_5771f.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_5771f.vcxproj -> C:\\Users\\Oswald\\source\\repos\\BadUSB3\\BadUSBTests\\build\\CMakeFiles\\CMakeScratch\\TryCompile-40dbtj\\Debug\\cmTC_5771f.exe
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\Oswald\\source\\repos\\BadUSB3\\BadUSBTests\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pffw95\\Debug\\cmTC_efa54.exe" /INCREMENTAL /ILK:"cmTC_efa54.dir\\Debug\\cmTC_efa54.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Oswald/source/repos/BadUSB3/BadUSBTests/build/CMakeFiles/CMakeScratch/TryCompile-pffw95/Debug/cmTC_efa54.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Oswald/source/repos/BadUSB3/BadUSBTests/build/CMakeFiles/CMakeScratch/TryCompile-pffw95/Debug/cmTC_efa54.lib" /MACHINE:X64  /machine:x64 cmTC_efa54.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_efa54.vcxproj -> C:\\Users\\Oswald\\source\\repos\\BadUSB3\\BadUSBTests\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pffw95\\Debug\\cmTC_efa54.exe
         FinalizeBuildStatus:
-          Usuwanie pliku "cmTC_5771f.dir\\Debug\\cmTC_5771f.tlog\\unsuccessfulbuild".
-          Modyfikowanie "cmTC_5771f.dir\\Debug\\cmTC_5771f.tlog\\cmTC_5771f.lastbuildstate".
-        Kompilowanie projektu "C:\\Users\\Oswald\\source\\repos\\BadUSB3\\BadUSBTests\\build\\CMakeFiles\\CMakeScratch\\TryCompile-40dbtj\\cmTC_5771f.vcxproj" wykonane (domyślne elementy docelowe).
+          Usuwanie pliku "cmTC_efa54.dir\\Debug\\cmTC_efa54.tlog\\unsuccessfulbuild".
+          Modyfikowanie "cmTC_efa54.dir\\Debug\\cmTC_efa54.tlog\\cmTC_efa54.lastbuildstate".
+        Kompilowanie projektu "C:\\Users\\Oswald\\source\\repos\\BadUSB3\\BadUSBTests\\build\\CMakeFiles\\CMakeScratch\\TryCompile-pffw95\\cmTC_efa54.vcxproj" wykonane (domyślne elementy docelowe).
         
         Kompilacja powiodła się.
             Ostrzeżenia: 0
             Liczba błędów: 0
         
-        Czas, który upłynął: 00:00:00.53
+        Czas, który upłynął: 00:00:00.50
         
       exitCode: 0
 ...

@@ -1,4 +1,5 @@
 #include "Helper.h"
+#pragma warning(disable: 4244)
 
 void Helper::copyArray(uint8_t* destination, uint8_t* source, uint16_t size)
 {
