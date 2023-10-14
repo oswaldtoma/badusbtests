@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Oswald\source\repos\BadUSB3\BadUSBTests\build\CMakeFiles\1262cd9c4ac531386a4a6461fe40f5bc\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A1C2BCDD-A8F8-32C2-B7D8-EA4702F28FBD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
